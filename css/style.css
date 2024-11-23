@@ -1,0 +1,44 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+.navbar{
+    background-color: white;
+
+}
+.banner{
+    background:url("/img/pexels-fotoaibe-1643383.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width:100%;
+}
+
+.banner h1{
+    font-size: 3rem;
+    margin-top: -100px;;
+}
+.card{
+    text-align: center;
+    margin:10px;
+    padding:10px;
+}
+.card-text{
+    text-align:justify;
+}
+.product{
+    background-color:#F1EEEF;
+}
+.our-team{
+    background-color:blue;
+}
+.carousel-img{
+    height:200px;
+    width:200px;
+    border-radius:100px;
+}
+.carousel-item{
+    text-align: center;
+    color:white;
+    margin-top:-50px;
+}
